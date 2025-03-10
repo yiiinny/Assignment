@@ -1,0 +1,14 @@
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
