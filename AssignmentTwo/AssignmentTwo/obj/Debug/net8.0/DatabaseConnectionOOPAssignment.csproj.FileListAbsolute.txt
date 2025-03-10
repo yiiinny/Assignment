@@ -1,0 +1,14 @@
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\bin\Debug\net8.0\DatabaseConnectionOOPAssignment.exe
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\bin\Debug\net8.0\DatabaseConnectionOOPAssignment.deps.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\bin\Debug\net8.0\DatabaseConnectionOOPAssignment.runtimeconfig.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\bin\Debug\net8.0\DatabaseConnectionOOPAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\bin\Debug\net8.0\DatabaseConnectionOOPAssignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.AssemblyInfoInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.AssemblyInfo.cs
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\refint\DatabaseConnectionOOPAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\DatabaseConnectionOOPAssignment.genruntimeconfig.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\AssignmentTwo\AssignmentTwo\obj\Debug\net8.0\ref\DatabaseConnectionOOPAssignment.dll
