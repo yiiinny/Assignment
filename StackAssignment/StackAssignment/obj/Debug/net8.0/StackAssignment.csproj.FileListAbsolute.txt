@@ -1,0 +1,14 @@
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\bin\Debug\net8.0\StackAssignment.exe
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\bin\Debug\net8.0\StackAssignment.deps.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\bin\Debug\net8.0\StackAssignment.runtimeconfig.json
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\bin\Debug\net8.0\StackAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\bin\Debug\net8.0\StackAssignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.AssemblyInfoInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.AssemblyInfo.cs
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.csproj.CoreCompileInputs.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\refint\StackAssignment.dll
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.pdb
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\StackAssignment.genruntimeconfig.cache
+C:\Users\eniba\OneDrive\Desktop\ETL class\StackAssignment\StackAssignment\obj\Debug\net8.0\ref\StackAssignment.dll
